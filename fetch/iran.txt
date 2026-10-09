@@ -1,0 +1,4 @@
+https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/07/03989ec3-7241-45e4-8a4a-a3613a536b19/thumbnail/1200x800/f451497658887abbfd68ee265659aa36/gettyimages-2297988138.jpg
+https://en.wikipedia.org/w/api.php?action=query&titles=Masoud_Pezeshkian&prop=pageimages&piprop=original&format=json
+https://en.wikipedia.org/w/api.php?action=query&titles=Strait_of_Hormuz&prop=pageimages&piprop=original&format=json
+https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/07/03989ec3-7241-45e4-8a4a-a3613a536b19/thumbnail/620x413/f451497658887abbfd68ee265659aa36/gettyimages-2297988138.jpg
