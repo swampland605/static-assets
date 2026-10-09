@@ -1,0 +1,7 @@
+https://en.wikipedia.org/w/api.php?action=query&titles=Luiz_In%C3%A1cio_Lula_da_Silva|Fl%C3%A1vio_Bolsonaro|Javier_Milei|Elon_Musk|Zohran_Mamdani&prop=pageimages&piprop=original&format=json
+https://media.ambito.com/p/46a823eb0f3d84665db00cde54a8b921/adjuntos/239/imagenes/043/693/0043693628/foto-spot-lula-balotaje-brasil.jpg
+https://media.ambito.com/p/9978bdd7cf9265042a36c228368bab28/adjuntos/239/imagenes/043/014/0043014092/jair-y-flavio-bolsonaro-2.jpg
+https://media.ambito.com/p/2685b6a36b717a71884951196d94f729/adjuntos/239/imagenes/043/682/0043682871/flavio-bolsonaro-elecciones.jpg
+https://cdn.mos.cms.futurecdn.net/epGDqLoXxA5JbmD6qiJMfB-2560-80.jpg
+https://static.time.com/v3/assets/bltea6093859af6183b/blt7c677946f8bbca8f/6ac8a4b413e94948e1053b0c/zohran-mamdani.jpg?branch=production&width=1600&quality=85
+https://static.time.com/v3/assets/bltea6093859af6183b/blt2468ff341f9f0fcd/6ac8a51a747d86171b7ba52b/new-york-ice-shooting-crime-scene.jpg?branch=production&width=1600&quality=85
