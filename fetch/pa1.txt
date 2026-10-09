@@ -1,0 +1,7 @@
+https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/10/09/6ac93bab11bdb039f2040d79.jpg
+https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/10/09/6ac93d686191d894ff0e8872.jpg
+https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/10/09/6ac93daab478989e3602339d.jpg
+https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/10/09/6ac93de8788123d5e60890af.jpg
+https://imgmedia.larepublica.pe/640x376/larepublica/original/2026/10/09/6ac93de8788123d5e60890af.webp
+https://en.wikipedia.org/w/api.php?action=query&titles=Jos%C3%A9_Ra%C3%BAl_Mulino&prop=pageimages&piprop=original&format=json
+https://abc17news.b-cdn.net/abc17news.com/2026/10/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXYxYXh4enUwMDBqMjZueGg0NzZjajl1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdjFheHh6dTAwMTAyNm54NDdzODBpbnM-860x484.jpg
