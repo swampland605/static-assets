@@ -1,0 +1,3 @@
+https://media.zenfs.com/es/cnn_espanol_articles_421/bab46e3f406353056a9d30bf2d9428b1.jpg
+https://en.wikipedia.org/w/api.php?action=query&titles=Marco_Rubio&prop=pageimages&piprop=original&format=json
+https://es.wikipedia.org/w/api.php?action=query&titles=Dinorah_Figuera&prop=pageimages&piprop=original&format=json
