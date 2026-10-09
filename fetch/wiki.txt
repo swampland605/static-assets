@@ -1,0 +1,1 @@
+https://en.wikipedia.org/w/api.php?action=query&titles=Jeffrey_Epstein&prop=pageimages&piprop=original&format=json
