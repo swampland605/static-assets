@@ -1,0 +1,30 @@
+name: fetch
+on:
+  push:
+    paths: ['fetch/*.txt']
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download
+        run: |
+          mkdir -p src
+          for f in fetch/*.txt; do
+            id=$(basename "$f" .txt); n=1
+            while read -r url; do
+              [ -z "$url" ] && continue
+              curl -sSL -A "Mozilla/5.0" -o "src/${id}_${n}.img" "$url" || true
+              n=$((n+1))
+            done < "$f"
+            git rm -q "$f"
+          done
+      - name: Commit
+        run: |
+          git config user.name swampland605
+          git config user.email swampland605@users.noreply.github.com
+          git add -A
+          git commit -m "fetched" || exit 0
+          git push
