@@ -1,2 +1,0 @@
-https://img.lalr.co/cms/2026/07/08102431/delcy-Rodriguez.jpg
-https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Starlink%20dish%20antenna&gsrnamespace=6&prop=imageinfo&iiprop=url|size&format=json&gsrlimit=12
