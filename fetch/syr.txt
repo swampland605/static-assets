@@ -1,4 +1,0 @@
-https://local21news.com/resources/media2/16x9/1320/1320/5x0/90/e9afd353-3ea7-418f-8797-2eb13f165069-Trumpspeaks.png
-https://local21news.com/resources/media2/16x9/1313/400/4x0/80/bc8c41e7-d2cc-4e69-a0b4-0c4894ef1dfe-Trump.png
-https://local21news.com/resources/media2/16x9/1320/400/8x0/80/28ab2140-bd35-47ce-95bd-09bfbc53e640-Screenshot20261009194727.png
-https://en.wikipedia.org/w/api.php?action=query&titles=Mike_Tyson&prop=pageimages&piprop=original&format=json
