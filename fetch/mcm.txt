@@ -1,4 +1,0 @@
-https://www.infobae.com/resizer/v2/5IERRKGQOVEG7CPHFC226DUBQI.jpg?auth=e35637dcaec17a7bcb53fe31fdb135f724f84ae13be20a4aff6e75afbae619f7&smart=true&width=1200&height=630&quality=85
-https://www.infobae.com/resizer/v2/OUGZY7VRHNDJNEST2Z3AZZ7DBI.jpg?auth=6f46205bd22daa9e9122df952aaabfff8e2e2556e770f89db6998556d4344839&smart=true&width=350&height=197&quality=85
-https://www.infobae.com/resizer/v2/6Q3PYHETURAGRMABL3M4VTODLU.JPG?auth=2d1c418b57b4eece1a3fe6f86d15174e4143c65ff1d2e5e14878bad4de45b61d&smart=true&width=350&height=233&quality=85
-https://en.wikipedia.org/w/api.php?action=query&titles=Mar%C3%ADa_Corina_Machado|Delcy_Rodr%C3%ADguez&prop=pageimages&piprop=original&format=json
