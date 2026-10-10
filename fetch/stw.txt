@@ -1,0 +1,1 @@
+https://en.wikipedia.org/w/api.php?action=query&titles=Starlink|Starlink_in_Venezuela&prop=pageimages&piprop=original&format=json
