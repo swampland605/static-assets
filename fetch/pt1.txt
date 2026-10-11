@@ -1,4 +1,0 @@
-https://www.cp24.com/resizer/v2/QL5HXA2IYU5R3ZSLXSXABFKUFM.png?smart=true&auth=729e9d4e1e7ad84161d46988c31d4aa0050db46d78ee84f948a75bf9ad664b5a&width=1252&height=704
-https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrsearch=Trump%20telephone%20Putin%20Oval%20Office&gsrlimit=15&prop=imageinfo&iiprop=url|size&format=json
-https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrnamespace=6&gsrsearch=Putin%20telephone%20conversation%20kremlin&gsrlimit=15&prop=imageinfo&iiprop=url|size&format=json
-https://en.wikipedia.org/w/api.php?action=query&titles=Vladimir_Putin&prop=pageimages&piprop=original&format=json
