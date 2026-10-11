@@ -1,1 +1,0 @@
-https://en.wikipedia.org/w/api.php?action=query&prop=pageimages&piprop=original&format=json&redirects=1&titles=Brigham_Young_University_campus%7CKarl_G._Maeser_Building%7CBible
