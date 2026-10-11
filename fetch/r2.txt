@@ -1,0 +1,7 @@
+https://en.wikipedia.org/w/api.php?action=query&redirects=1&titles=Robert%20F.%20Kennedy%20Department%20of%20Justice%20Building&prop=pageimages&piprop=original&format=json
+https://en.wikipedia.org/w/api.php?action=query&redirects=1&titles=Gemelli%20Hospital&prop=pageimages&piprop=original&format=json
+https://en.wikipedia.org/w/api.php?action=query&redirects=1&titles=Casco%20Viejo%2C%20Panama%20City&prop=pageimages&piprop=original&format=json
+https://en.wikipedia.org/w/api.php?action=query&redirects=1&titles=Second%20presidency%20of%20Donald%20Trump&prop=pageimages&piprop=original&format=json
+https://en.wikipedia.org/w/api.php?action=query&redirects=1&titles=Panama&prop=pageimages&piprop=original&format=json
+https://en.wikipedia.org/w/api.php?action=query&redirects=1&titles=Saint%20Peter%27s%20Square&prop=pageimages&piprop=original&format=json
+https://it.wikipedia.org/w/api.php?action=query&redirects=1&titles=Policlinico%20Agostino%20Gemelli&prop=pageimages&piprop=original&format=json
