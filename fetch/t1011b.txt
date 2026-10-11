@@ -1,4 +1,0 @@
-https://upload.wikimedia.org/wikipedia/commons/b/bc/Sen._Thom_Tillis_%28R-NC%29%2C_Official_Portrait%2C_117th_Congress_%28cropped%29.jpg?width=1600
-https://upload.wikimedia.org/wikipedia/commons/3/35/DHS_Secretary_Markwayne_Mullin_Official_Portrait_%2855166865268%29.jpg?width=1600
-https://upload.wikimedia.org/wikipedia/commons/9/9f/US_Capitol_east_side.JPG?width=2400
-https://pt.wikipedia.org/w/api.php?action=query&titles=Kassio%20Nunes%20Marques&prop=pageimages&piprop=original&format=json
