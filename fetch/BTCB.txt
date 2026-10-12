@@ -1,1 +1,0 @@
-https://en.wikipedia.org/w/api.php?action=query&titles=Bitcoin%20in%20El%20Salvador%7CInternational%20Monetary%20Fund%7CChivo%20%28wallet%29%7CNayib%20Bukele%7CCristosal&prop=pageimages&piprop=original&format=json
