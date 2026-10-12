@@ -1,0 +1,2 @@
+https://static.kyivpost.com/storage/2026/10/12/3ac45f0e9fac5ace8dafb9f1f8448d94.jpg?w=2560&f=jpg
+https://en.wikipedia.org/w/api.php?action=query&titles=Volodymyr%20Zelenskyy&prop=pageimages&piprop=original&format=json
