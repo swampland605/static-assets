@@ -1,3 +1,0 @@
-https://en.wikipedia.org/w/api.php?action=query&titles=Miraflores%20Palace&prop=pageimages&piprop=original&format=json
-https://www.infobae.com/resizer/v2/K77ZP5QXC5GATFBDDG3YPXTWXI.png?auth=0699f33437b927b77e91ae47728b2f0bde566b3c914d18d806bb16d7846b54c2&smart=true&width=1600&height=900&quality=85
-https://www.infobae.com/resizer/v2/HTEPEKUEDFF6NOMWGP6UJUTO6Q.png?auth=652e152343e18b96ae9152777039fd584d6b9f8b0a88bd6cd169d50317af0a0c&smart=true&width=1600&height=900&quality=85
