@@ -1,2 +1,0 @@
-https://newsimg.koreatimes.co.kr/2026/10/13/f24526a7-cb82-4614-b0c4-a62c7be4f9b0.jpg
-https://en.wikipedia.org/w/api.php?action=query&titles=Kim%20Jong%20Un%7CSingapore%20Summit%7C2019%20Koreas%E2%80%93United%20States%20DMZ%20Border%20Meeting&prop=pageimages&piprop=original&format=json
