@@ -1,2 +1,0 @@
-https://en.wikipedia.org/w/api.php?action=query&titles=Agostino%20Gemelli%20University%20Policlinic%7CThurgood%20Marshall%20United%20States%20Courthouse%7CDonald%20Trump%7CStrait%20of%20Hormuz&prop=pageimages&piprop=original&format=json
-https://es.wikipedia.org/w/api.php?action=query&titles=Nelson%20Castro&prop=pageimages&piprop=original&format=json
