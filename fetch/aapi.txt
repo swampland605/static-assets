@@ -1,0 +1,1 @@
+https://en.wikipedia.org/w/api.php?action=query&titles=Jennifer_Rochon|Claudia_Sheinbaum|Luis_Abinader|Javier_Milei|Marcelo_Ebrard|Andrew_Mountbatten-Windsor|Royal_Lodge|Daniel_Patrick_Moynihan_United_States_Courthouse|Ohio_Statehouse|Christopher_Columbus|Donald_Trump|Gibney%2C_Alex|Alex_Gibney|Ashley_St._Clair&prop=pageimages&piprop=original&format=json
