@@ -1,2 +1,0 @@
-https://upload.wikimedia.org/wikipedia/commons/0/00/FCI_Fort_Dix.jpeg
-https://commons.wikimedia.org/w/api.php?action=query&list=search&srnamespace=6&srsearch=Fort%20Dix%20correctional&srlimit=15&format=json
