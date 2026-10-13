@@ -1,0 +1,2 @@
+https://d.ibtimes.co.uk/en/full/1836183/hayley-williams-paramore.png?w=736&f=7fd0edbeb2b2b9759efa86ef8a0c70d6
+https://en.wikipedia.org/w/api.php?action=query&titles=Hayley_Williams|United_States_Department_of_Homeland_Security&prop=pageimages&piprop=original&format=json
