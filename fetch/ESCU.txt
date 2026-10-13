@@ -1,3 +1,0 @@
-https://commons.wikimedia.org/wiki/Special:FilePath/Walk_out.jpg?width=900
-https://commons.wikimedia.org/wiki/Special:FilePath/Students_Protest_Anti-Trans_Law_(51934611549).jpg?width=900
-https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=rainbow+pride+flag+flagpole+school&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Csize&format=json
