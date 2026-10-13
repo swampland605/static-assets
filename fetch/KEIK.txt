@@ -1,0 +1,1 @@
+https://en.wikipedia.org/w/api.php?action=query&titles=Colegio%20Nacional%20de%20Nuestra%20Se%C3%B1ora%20de%20Guadalupe|Ministry%20of%20Education%20(Peru)|Government%20Palace%20(Peru)&prop=pageimages&piprop=original&format=json
