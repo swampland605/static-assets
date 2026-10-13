@@ -1,0 +1,4 @@
+https://static.foxnews.com/foxnews.com/content/uploads/2026/10/rj-mitte-found-dead.jpg
+https://staging.closerweekly.com/wp-content/uploads/2026/10/wenn40765508-scaled.jpg
+https://closerweekly.com/wp-content/uploads/2026/10/Design-sans-titre-78.png
+https://en.wikipedia.org/w/api.php?action=query&titles=RJ%20Mitte|Breaking%20Bad&prop=pageimages&piprop=original&format=json
