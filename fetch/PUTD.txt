@@ -1,1 +1,0 @@
-https://en.wikipedia.org/w/api.php?action=query&titles=Vladimir%20Putin&prop=pageimages&piprop=original&format=json
