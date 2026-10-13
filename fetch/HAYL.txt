@@ -1,3 +1,0 @@
-https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Hayley+Williams+Show+Raleigh&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url|size&format=json
-https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=Department+of+Homeland+Security+headquarters+St.+Elizabeths&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url|size&format=json
-https://d.ibtimes.co.uk/en/full/1836183/hayley-williams-paramore.png?w=736
