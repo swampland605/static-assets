@@ -1,2 +1,0 @@
-https://commons.wikimedia.org/wiki/Special:FilePath/Sonoma_Valley_High_School,_Dec_7_2024.jpg?width=2400
-https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=pride+flag+school+students&gsrnamespace=6&gsrlimit=15&prop=imageinfo&iiprop=url%7Csize&format=json
