@@ -1,3 +1,0 @@
-https://i.abcnewsfe.com/a/7f1e13cd-735f-44f2-9564-80e626ec03b7/wirestory_79a6a59fc93d9b596058ddfc32637614_16x9.jpg?w=1600
-https://images.ctfassets.net/pjshm78m9jt4/headerImage-151cfe45-94a8-4d7f-ba08-8949d75a3845/b1b1304a718d6f88c5f70519779371e8/headerImage-151cfe45-94a8-4d7f-ba08-8949d75a3845.jpg?fm=jpg&fit=fill&w=1600&h=900&q=80
-https://en.wikipedia.org/w/api.php?action=query&titles=Yorkshire%20Wildlife%20Park&prop=pageimages&piprop=original&format=json
