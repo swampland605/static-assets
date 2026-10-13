@@ -1,1 +1,0 @@
-https://en.wikipedia.org/w/api.php?action=query&titles=Palais%20des%20Nations|Uyghurs|Xinjiang%20internment%20camps|Great%20Hall%20of%20the%20People&prop=pageimages&piprop=original&format=json
