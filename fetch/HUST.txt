@@ -1,0 +1,3 @@
+https://hermes.media.static.aol.com/media/2026/10/13/91ff34d4-8068-3d5a-82dd-16b4eedaa2e9/53ac37ca-0a9d-494c-bbcf-f429fc1578d3.jpg
+https://hermes.media.static.aol.com/media/2026/10/13/91ff34d4-8068-3d5a-82dd-16b4eedaa2e9/84956cc3-0b33-45c0-84a2-cb47bddcf53a.jpg
+https://en.wikipedia.org/w/api.php?action=query&titles=Jon%20Husted&prop=pageimages&piprop=original&format=json
