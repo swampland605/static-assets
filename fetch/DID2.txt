@@ -1,2 +1,0 @@
-https://en.wikipedia.org/w/api.php?action=query&titles=Federal%20Correctional%20Institution%2C%20Fort%20Dix&prop=pageimages&piprop=original&format=json
-https://commons.wikimedia.org/w/api.php?action=query&list=search&srnamespace=6&srsearch=Fort%20Dix%20federal%20correctional%20institution&srlimit=20&format=json
