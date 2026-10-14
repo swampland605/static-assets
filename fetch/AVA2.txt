@@ -1,2 +1,0 @@
-https://media.breitbart.com/media/2026/10/AvaDuVernay.jpg
-https://en.wikipedia.org/w/api.php?action=query&titles=Hollywood%20Sign|Ava%20DuVernay&prop=pageimages&piprop=original&format=json
