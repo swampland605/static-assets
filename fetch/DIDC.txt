@@ -1,3 +1,0 @@
-https://en.wikipedia.org/w/api.php?action=query&titles=Federal%20Correctional%20Institution%2C%20Fort%20Dix|Bunk%20bed|Joint%20Base%20McGuire-Dix-Lakehurst&prop=pageimages&piprop=original&format=json
-https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=Fort%20Dix%20federal%20correctional%20institution&srnamespace=6&format=json
-https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=prison%20bunk%20beds%20cell&srnamespace=6&format=json
