@@ -1,5 +1,0 @@
-https://upload.wikimedia.org/wikipedia/commons/a/a2/Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg
-https://upload.wikimedia.org/wikipedia/commons/7/76/Javier_Milei_in_pull-aside_meeting_at_the_United_Nations_Headquarters_%283x4_cropped%29.jpg
-https://upload.wikimedia.org/wikipedia/commons/7/71/2023_Jorge_Rodr%C3%ADguez_G%C3%B3mez.jpg
-https://www.infobae.com/resizer/v2/ZUSAFWIJ3ZD2XMYEVOPO32RQDA.jpg?width=1200&quality=85
-https://en.wikipedia.org/w/api.php?action=query&titles=Yorkshire%20Wildlife%20Park|Siberian%20tiger&prop=pageimages&piprop=original&format=json
